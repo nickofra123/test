@@ -1,4 +1,4 @@
-1.Скачай Python:
+Скачай Python:
 https://www.python.org/downloads/
 
 затем в cmd.exe:
